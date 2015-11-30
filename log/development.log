@@ -1,0 +1,2273 @@
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 219.142.69.78 at 2015-11-30 11:16:41 +0800
+Processing by AdminsController#login as HTML
+  Rendered admins/login.html.erb within layouts/application (4.8ms)
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/afba52aab1d4a1a2662d50797b601d3469f26393/admins.css.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Compiled admins.css  (8ms)  (pid 16344)
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/afba52aab1d4a1a2662d50797b601d3469f26393/custom.css.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/a687074d48e716b28c18503ece95cead85b385b5/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_variables.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_mixins.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_reset.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_grid.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_layouts.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_type.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_code.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_forms.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_tables.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_sprites.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_wells.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_component-animations.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_close.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_buttons.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_button-groups.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_alerts.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_navs.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_navbar.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_pagination.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_pager.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_modals.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_tooltip.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_popovers.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_accordion.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_carousel.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_utilities.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Compiled custom.css  (1428ms)  (pid 16344)
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/afba52aab1d4a1a2662d50797b601d3469f26393/logs.css.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Compiled logs.css  (1ms)  (pid 16344)
+Compiled register/bootstrap-switch.css  (0ms)  (pid 16344)
+Compiled register/bootstrap.min.css  (0ms)  (pid 16344)
+Compiled register/css.css  (0ms)  (pid 16344)
+Compiled register/default.css  (0ms)  (pid 16344)
+Compiled register/font-awesome.min.css  (0ms)  (pid 16344)
+Compiled register/ionicons.min.css  (0ms)  (pid 16344)
+Compiled register/jquery.pnotify.default.css  (0ms)  (pid 16344)
+Compiled register/jquery.pnotify.default.icons.css  (0ms)  (pid 16344)
+Compiled register/plugins.css  (0ms)  (pid 16344)
+Compiled register/print.css  (0ms)  (pid 16344)
+Compiled register/select2-metronic.css  (0ms)  (pid 16344)
+Compiled register/select2.css  (0ms)  (pid 16344)
+Compiled register/signin.css  (0ms)  (pid 16344)
+Compiled register/style-responsive.css  (0ms)  (pid 16344)
+Compiled register/style.css  (0ms)  (pid 16344)
+Compiled register/tasks.css  (0ms)  (pid 16344)
+Compiled register/uniform.default.css  (0ms)  (pid 16344)
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/afba52aab1d4a1a2662d50797b601d3469f26393/scaffolds.css.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Compiled scaffolds.css  (9ms)  (pid 16344)
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/afba52aab1d4a1a2662d50797b601d3469f26393/timeline.css.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Compiled timeline.css  (22ms)  (pid 16344)
+Warning. Error encountered while saving cache /home/smartwifi/configServer/tmp/cache/sass/afba52aab1d4a1a2662d50797b601d3469f26393/upload.css.scssc: can't dump anonymous class #<Class:0x00000003951a20>
+Compiled upload.css  (1ms)  (pid 16344)
+Compiled font-awesome.css  (14ms)  (pid 16344)
+Compiled application.css  (1706ms)  (pid 16344)
+Compiled jquery.js  (23ms)  (pid 16344)
+Compiled jquery_ujs.js  (0ms)  (pid 16344)
+Compiled address.js  (1ms)  (pid 16344)
+Compiled admins.js  (57ms)  (pid 16344)
+Compiled bootstrap-switch.min.js  (0ms)  (pid 16344)
+Compiled bootstrap.min.js  (0ms)  (pid 16344)
+Compiled global.js  (0ms)  (pid 16344)
+Compiled jquery-1.11.0.js  (24ms)  (pid 16344)
+Compiled jquery.pnotify.js  (0ms)  (pid 16344)
+Compiled jquery.validate.min.js  (0ms)  (pid 16344)
+Compiled logs.js  (1ms)  (pid 16344)
+Compiled md5.js  (0ms)  (pid 16344)
+Compiled messages_zh.js  (0ms)  (pid 16344)
+Compiled resources.js  (0ms)  (pid 16344)
+Compiled upload.js  (0ms)  (pid 16344)
+Compiled bootstrap-transition.js  (0ms)  (pid 16344)
+Compiled bootstrap-alert.js  (0ms)  (pid 16344)
+Compiled bootstrap-button.js  (0ms)  (pid 16344)
+Compiled bootstrap-carousel.js  (0ms)  (pid 16344)
+Compiled bootstrap-collapse.js  (0ms)  (pid 16344)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 16344)
+Compiled bootstrap-modal.js  (0ms)  (pid 16344)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 16344)
+Compiled bootstrap-tab.js  (0ms)  (pid 16344)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 16344)
+Compiled bootstrap-popover.js  (0ms)  (pid 16344)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 16344)
+Compiled bootstrap.js  (64ms)  (pid 16344)
+Compiled application.js  (228ms)  (pid 16344)
+  Rendered shared/_shim.html.erb (0.3ms)
+  Rendered shared/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 2132ms (Views: 2132.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/admins.css?body=1" for 219.142.69.78 at 2015-11-30 11:16:54 +0800
+Served asset /admins.css - 200 OK (5ms)
+
+
+Started GET "/assets/custom.css?body=1" for 219.142.69.78 at 2015-11-30 11:16:54 +0800
+Served asset /custom.css - 200 OK (8ms)
+
+
+Started GET "/assets/register/bootstrap-switch.css?body=1" for 219.142.69.78 at 2015-11-30 11:16:54 +0800
+Served asset /register/bootstrap-switch.css - 200 OK (1ms)
+
+
+Started GET "/assets/logs.css?body=1" for 219.142.69.78 at 2015-11-30 11:16:54 +0800
+Served asset /logs.css - 200 OK (1ms)
+
+
+Started GET "/assets/register/bootstrap.min.css?body=1" for 219.142.69.78 at 2015-11-30 11:16:54 +0800
+Served asset /register/bootstrap.min.css - 200 OK (2ms)
+
+
+Started GET "/assets/register/css.css?body=1" for 219.142.69.78 at 2015-11-30 11:16:54 +0800
+Served asset /register/css.css - 200 OK (1ms)
+
+
+Started GET "/assets/register/default.css?body=1" for 219.142.69.78 at 2015-11-30 11:16:59 +0800
+Served asset /register/default.css - 200 OK (1ms)
+
+
+Started GET "/assets/register/font-awesome.min.css?body=1" for 219.142.69.78 at 2015-11-30 11:16:59 +0800
+Served asset /register/font-awesome.min.css - 200 OK (2ms)
+
+
+Started GET "/assets/register/ionicons.min.css?body=1" for 219.142.69.78 at 2015-11-30 11:16:59 +0800
+Served asset /register/ionicons.min.css - 200 OK (1ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:00 +0800
+Served asset /register/jquery.pnotify.default.css - 200 OK (1ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.icons.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:00 +0800
+Served asset /register/jquery.pnotify.default.icons.css - 200 OK (1ms)
+
+
+Started GET "/assets/register/plugins.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:00 +0800
+Served asset /register/plugins.css - 200 OK (3ms)
+
+
+Started GET "/assets/register/print.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:04 +0800
+Served asset /register/print.css - 200 OK (1ms)
+
+
+Started GET "/assets/register/select2-metronic.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:04 +0800
+Served asset /register/select2-metronic.css - 200 OK (2ms)
+
+
+Started GET "/assets/register/select2.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:04 +0800
+Served asset /register/select2.css - 200 OK (31ms)
+
+
+Started GET "/assets/register/signin.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:05 +0800
+Served asset /register/signin.css - 200 OK (1ms)
+
+
+Started GET "/assets/register/style-responsive.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:05 +0800
+Served asset /register/style-responsive.css - 200 OK (1ms)
+
+
+Started GET "/assets/register/style.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:05 +0800
+Served asset /register/style.css - 200 OK (1ms)
+
+
+Started GET "/assets/register/tasks.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:09 +0800
+Served asset /register/tasks.css - 200 OK (3ms)
+
+
+Started GET "/assets/register/uniform.default.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:09 +0800
+Served asset /register/uniform.default.css - 200 OK (1ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:09 +0800
+Served asset /scaffolds.css - 200 OK (1ms)
+
+
+Started GET "/assets/timeline.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:10 +0800
+Served asset /timeline.css - 200 OK (2ms)
+
+
+Started GET "/assets/upload.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:10 +0800
+Served asset /upload.css - 200 OK (1ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 219.142.69.78 at 2015-11-30 11:17:11 +0800
+Served asset /font-awesome.css - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:14 +0800
+Served asset /jquery.js - 200 OK (4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:14 +0800
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/address.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:15 +0800
+Served asset /address.js - 200 OK (3ms)
+
+
+Started GET "/assets/admins.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:15 +0800
+Served asset /admins.js - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap-switch.min.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:15 +0800
+Served asset /bootstrap-switch.min.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:16 +0800
+Served asset /bootstrap.min.js - 200 OK (1ms)
+
+
+Started GET "/assets/global.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:20 +0800
+Served asset /global.js - 200 OK (3ms)
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:21 +0800
+Served asset /jquery-1.11.0.js - 200 OK (4ms)
+
+
+Started GET "/assets/jquery.pnotify.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:21 +0800
+Served asset /jquery.pnotify.js - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.validate.min.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:21 +0800
+Served asset /jquery.validate.min.js - 200 OK (1ms)
+
+
+Started GET "/assets/logs.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:21 +0800
+Served asset /logs.js - 200 OK (1ms)
+
+
+Started GET "/assets/md5.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:21 +0800
+Served asset /md5.js - 200 OK (2ms)
+
+
+Started GET "/assets/messages_zh.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:25 +0800
+Served asset /messages_zh.js - 200 OK (1ms)
+
+
+Started GET "/assets/resources.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:27 +0800
+Served asset /resources.js - 200 OK (3ms)
+
+
+Started GET "/assets/upload.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:27 +0800
+Served asset /upload.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:27 +0800
+Served asset /bootstrap-transition.js - 200 OK (5ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:27 +0800
+Served asset /bootstrap-alert.js - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:27 +0800
+Served asset /bootstrap-button.js - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:30 +0800
+Served asset /bootstrap-carousel.js - 200 OK (4ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:32 +0800
+Served asset /bootstrap-collapse.js - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:32 +0800
+Served asset /bootstrap-dropdown.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:32 +0800
+Served asset /bootstrap-modal.js - 200 OK (4ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:32 +0800
+Served asset /bootstrap-scrollspy.js - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:32 +0800
+Served asset /bootstrap-tab.js - 200 OK (5ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:35 +0800
+Served asset /bootstrap-tooltip.js - 200 OK (5ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:37 +0800
+Served asset /bootstrap-popover.js - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:37 +0800
+Served asset /bootstrap-typeahead.js - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 219.142.69.78 at 2015-11-30 11:17:37 +0800
+Served asset /bootstrap.js - 200 OK (15ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Compiled jquery.js  (27ms)  (pid 33252)
+Compiled jquery_ujs.js  (0ms)  (pid 33252)
+Compiled address.js  (1ms)  (pid 33252)
+Compiled admins.js  (53ms)  (pid 33252)
+Compiled bootstrap-switch.min.js  (0ms)  (pid 33252)
+Compiled bootstrap.min.js  (0ms)  (pid 33252)
+Compiled global.js  (0ms)  (pid 33252)
+Compiled jquery-1.11.0.js  (1ms)  (pid 33252)
+Compiled jquery.pnotify.js  (0ms)  (pid 33252)
+Compiled jquery.validate.min.js  (0ms)  (pid 33252)
+Compiled logs.js  (1ms)  (pid 33252)
+Compiled md5.js  (0ms)  (pid 33252)
+Compiled messages_zh.js  (0ms)  (pid 33252)
+Compiled resources.js  (1ms)  (pid 33252)
+Compiled upload.js  (0ms)  (pid 33252)
+Compiled bootstrap-transition.js  (0ms)  (pid 33252)
+Compiled bootstrap-alert.js  (0ms)  (pid 33252)
+Compiled bootstrap-button.js  (0ms)  (pid 33252)
+Compiled bootstrap-carousel.js  (0ms)  (pid 33252)
+Compiled bootstrap-collapse.js  (0ms)  (pid 33252)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 33252)
+Compiled bootstrap-modal.js  (0ms)  (pid 33252)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 33252)
+Compiled bootstrap-tab.js  (0ms)  (pid 33252)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 33252)
+Compiled bootstrap-popover.js  (0ms)  (pid 33252)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 33252)
+Compiled bootstrap.js  (71ms)  (pid 33252)
+Compiled application.js  (266ms)  (pid 33252)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/admins.css.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Compiled admins.css  (6ms)  (pid 33252)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/custom.css.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/a687074d48e716b28c18503ece95cead85b385b5/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_variables.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_mixins.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_reset.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_grid.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_layouts.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_type.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_code.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_forms.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_tables.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_sprites.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_wells.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_component-animations.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_close.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_buttons.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_button-groups.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_alerts.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_navs.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_navbar.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_pagination.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_pager.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_modals.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_tooltip.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_popovers.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_accordion.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_carousel.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_utilities.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Compiled custom.css  (1274ms)  (pid 33252)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/logs.css.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Compiled logs.css  (1ms)  (pid 33252)
+Compiled register/bootstrap-switch.css  (0ms)  (pid 33252)
+Compiled register/bootstrap.min.css  (0ms)  (pid 33252)
+Compiled register/css.css  (0ms)  (pid 33252)
+Compiled register/default.css  (0ms)  (pid 33252)
+Compiled register/font-awesome.min.css  (0ms)  (pid 33252)
+Compiled register/ionicons.min.css  (0ms)  (pid 33252)
+Compiled register/jquery.pnotify.default.css  (0ms)  (pid 33252)
+Compiled register/jquery.pnotify.default.icons.css  (0ms)  (pid 33252)
+Compiled register/plugins.css  (0ms)  (pid 33252)
+Compiled register/print.css  (0ms)  (pid 33252)
+Compiled register/select2-metronic.css  (0ms)  (pid 33252)
+Compiled register/select2.css  (0ms)  (pid 33252)
+Compiled register/signin.css  (0ms)  (pid 33252)
+Compiled register/style-responsive.css  (0ms)  (pid 33252)
+Compiled register/style.css  (0ms)  (pid 33252)
+Compiled register/tasks.css  (0ms)  (pid 33252)
+Compiled register/uniform.default.css  (0ms)  (pid 33252)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/scaffolds.css.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Compiled scaffolds.css  (10ms)  (pid 33252)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/timeline.css.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Compiled timeline.css  (22ms)  (pid 33252)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/upload.css.scssc: can't dump anonymous class #<Class:0x00000002688b50>
+Compiled upload.css  (1ms)  (pid 33252)
+Compiled font-awesome.css  (37ms)  (pid 33252)
+Compiled application.css  (1490ms)  (pid 33252)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 219.142.69.78 at 2015-11-30 13:13:09 +0800
+Processing by AdminsController#login as HTML
+  Rendered admins/login.html.erb within layouts/application (3.5ms)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/admins.css.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Compiled admins.css  (6ms)  (pid 33526)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/custom.css.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/a687074d48e716b28c18503ece95cead85b385b5/_bootstrap.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_variables.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_mixins.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_reset.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_scaffolding.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_grid.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_layouts.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_type.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_code.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_forms.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_tables.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_sprites.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_dropdowns.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_wells.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_component-animations.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_close.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_buttons.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_button-groups.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_alerts.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_navs.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_navbar.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_pagination.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_pager.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_modals.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_tooltip.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_popovers.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_thumbnails.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_labels-badges.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_progress-bars.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_accordion.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_carousel.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_hero-unit.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/3b8041ed1a0c7ebba1160cae2e8ea25803d16c56/_utilities.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Compiled custom.css  (1300ms)  (pid 33526)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/logs.css.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Compiled logs.css  (2ms)  (pid 33526)
+Compiled register/bootstrap-switch.css  (0ms)  (pid 33526)
+Compiled register/bootstrap.min.css  (0ms)  (pid 33526)
+Compiled register/css.css  (0ms)  (pid 33526)
+Compiled register/default.css  (0ms)  (pid 33526)
+Compiled register/font-awesome.min.css  (0ms)  (pid 33526)
+Compiled register/ionicons.min.css  (0ms)  (pid 33526)
+Compiled register/jquery.pnotify.default.css  (0ms)  (pid 33526)
+Compiled register/jquery.pnotify.default.icons.css  (0ms)  (pid 33526)
+Compiled register/plugins.css  (0ms)  (pid 33526)
+Compiled register/print.css  (0ms)  (pid 33526)
+Compiled register/select2-metronic.css  (0ms)  (pid 33526)
+Compiled register/select2.css  (0ms)  (pid 33526)
+Compiled register/signin.css  (0ms)  (pid 33526)
+Compiled register/style-responsive.css  (0ms)  (pid 33526)
+Compiled register/style.css  (0ms)  (pid 33526)
+Compiled register/tasks.css  (0ms)  (pid 33526)
+Compiled register/uniform.default.css  (0ms)  (pid 33526)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/scaffolds.css.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Compiled scaffolds.css  (10ms)  (pid 33526)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/timeline.css.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Compiled timeline.css  (23ms)  (pid 33526)
+Warning. Error encountered while saving cache /home/smartwifi/test/configServer/tmp/cache/sass/176295ee90199d2d4039ca6fe7c16b312c100814/upload.css.scssc: can't dump anonymous class #<Class:0x00000001f91298>
+Compiled upload.css  (1ms)  (pid 33526)
+Compiled font-awesome.css  (14ms)  (pid 33526)
+Compiled application.css  (1466ms)  (pid 33526)
+Compiled jquery.js  (1ms)  (pid 33526)
+Compiled jquery_ujs.js  (0ms)  (pid 33526)
+Compiled address.js  (1ms)  (pid 33526)
+Compiled admins.js  (51ms)  (pid 33526)
+Compiled bootstrap-switch.min.js  (0ms)  (pid 33526)
+Compiled bootstrap.min.js  (0ms)  (pid 33526)
+Compiled global.js  (0ms)  (pid 33526)
+Compiled jquery-1.11.0.js  (2ms)  (pid 33526)
+Compiled jquery.pnotify.js  (0ms)  (pid 33526)
+Compiled jquery.validate.min.js  (0ms)  (pid 33526)
+Compiled logs.js  (2ms)  (pid 33526)
+Compiled md5.js  (0ms)  (pid 33526)
+Compiled messages_zh.js  (0ms)  (pid 33526)
+Compiled resources.js  (1ms)  (pid 33526)
+Compiled upload.js  (0ms)  (pid 33526)
+Compiled bootstrap-transition.js  (0ms)  (pid 33526)
+Compiled bootstrap-alert.js  (0ms)  (pid 33526)
+Compiled bootstrap-button.js  (0ms)  (pid 33526)
+Compiled bootstrap-carousel.js  (0ms)  (pid 33526)
+Compiled bootstrap-collapse.js  (0ms)  (pid 33526)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 33526)
+Compiled bootstrap-modal.js  (0ms)  (pid 33526)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 33526)
+Compiled bootstrap-tab.js  (0ms)  (pid 33526)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 33526)
+Compiled bootstrap-popover.js  (0ms)  (pid 33526)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 33526)
+Compiled bootstrap.js  (62ms)  (pid 33526)
+Compiled application.js  (227ms)  (pid 33526)
+  Rendered shared/_shim.html.erb (0.3ms)
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 1857ms (Views: 1856.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:11 +0800
+Served asset /custom.css - 200 OK (38ms)
+
+
+Started GET "/assets/admins.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:11 +0800
+Served asset /admins.css - 200 OK (2ms)
+
+
+
+
+
+
+Started GET "/assets/logs.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:11 +0800
+Started GET "/assets/register/bootstrap-switch.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:11 +0800
+Started GET "/assets/register/bootstrap.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:11 +0800
+Served asset /logs.css - 200 OK (2ms)
+Served asset /register/bootstrap-switch.css - 200 OK (2ms)
+Served asset /register/bootstrap.min.css - 200 OK (2ms)
+
+
+Started GET "/assets/register/css.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:12 +0800
+Served asset /register/css.css - 200 OK (2ms)
+
+
+Started GET "/assets/register/default.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:12 +0800
+Served asset /register/default.css - 200 OK (2ms)
+
+
+Started GET "/assets/register/font-awesome.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:12 +0800
+Served asset /register/font-awesome.min.css - 200 OK (3ms)
+
+
+Started GET "/assets/register/ionicons.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:13 +0800
+Served asset /register/ionicons.min.css - 200 OK (3ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.icons.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:13 +0800
+Served asset /register/jquery.pnotify.default.icons.css - 200 OK (1ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:13 +0800
+Served asset /register/jquery.pnotify.default.css - 200 OK (2ms)
+
+
+Started GET "/assets/register/plugins.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:13 +0800
+Served asset /register/plugins.css - 200 OK (3ms)
+
+
+Started GET "/assets/register/print.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:14 +0800
+Served asset /register/print.css - 200 OK (3ms)
+
+
+Started GET "/assets/register/select2-metronic.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:14 +0800
+Served asset /register/select2-metronic.css - 200 OK (3ms)
+
+
+Started GET "/assets/register/select2.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:14 +0800
+Served asset /register/select2.css - 200 OK (3ms)
+
+
+Started GET "/assets/register/signin.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:15 +0800
+Served asset /register/signin.css - 200 OK (3ms)
+
+
+Started GET "/assets/register/style-responsive.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:15 +0800
+Served asset /register/style-responsive.css - 200 OK (2ms)
+
+
+Started GET "/assets/register/style.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:15 +0800
+Served asset /register/style.css - 200 OK (3ms)
+
+
+Started GET "/assets/register/tasks.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:15 +0800
+Served asset /register/tasks.css - 200 OK (2ms)
+
+
+Started GET "/assets/register/uniform.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:15 +0800
+Served asset /register/uniform.default.css - 200 OK (2ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:16 +0800
+Served asset /scaffolds.css - 200 OK (2ms)
+
+
+Started GET "/assets/timeline.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:16 +0800
+
+
+Started GET "/assets/upload.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:16 +0800
+Served asset /timeline.css - 200 OK (3ms)
+Served asset /upload.css - 200 OK (2ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 219.142.69.78 at 2015-11-30 13:13:16 +0800
+Served asset /font-awesome.css - 200 OK (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:16 +0800
+Served asset /jquery.js - 200 OK (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:16 +0800
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/address.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:16 +0800
+Served asset /address.js - 200 OK (25ms)
+
+
+Started GET "/assets/admins.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:16 +0800
+Served asset /admins.js - 200 OK (1ms)
+
+
+Started GET "/assets/bootstrap-switch.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:17 +0800
+Served asset /bootstrap-switch.min.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:17 +0800
+Served asset /bootstrap.min.js - 200 OK (1ms)
+
+
+Started GET "/assets/global.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:17 +0800
+Served asset /global.js - 200 OK (1ms)
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:17 +0800
+Served asset /jquery-1.11.0.js - 200 OK (3ms)
+
+
+Started GET "/assets/jquery.pnotify.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:17 +0800
+Served asset /jquery.pnotify.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.validate.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:17 +0800
+Served asset /jquery.validate.min.js - 200 OK (1ms)
+
+
+Started GET "/assets/logs.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:18 +0800
+Served asset /logs.js - 200 OK (2ms)
+
+
+Started GET "/assets/md5.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:18 +0800
+Served asset /md5.js - 200 OK (1ms)
+
+
+Started GET "/assets/messages_zh.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:18 +0800
+Served asset /messages_zh.js - 200 OK (2ms)
+
+
+Started GET "/assets/resources.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:18 +0800
+Served asset /resources.js - 200 OK (2ms)
+
+
+Started GET "/assets/upload.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+Served asset /upload.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+Served asset /bootstrap-transition.js - 200 OK (6ms)
+Served asset /bootstrap-alert.js - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+Served asset /bootstrap-button.js - 200 OK (8ms)
+Served asset /bootstrap-collapse.js - 200 OK (2ms)
+Served asset /bootstrap-carousel.js - 200 OK (5ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+Served asset /bootstrap-dropdown.js - 200 OK (5ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+Served asset /bootstrap-modal.js - 200 OK (5ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+Served asset /bootstrap-scrollspy.js - 200 OK (3ms)
+Served asset /bootstrap-tab.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+Served asset /bootstrap-tooltip.js - 200 OK (5ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+Served asset /bootstrap-popover.js - 200 OK (5ms)
+Served asset /bootstrap-typeahead.js - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 219.142.69.78 at 2015-11-30 13:13:19 +0800
+Served asset /bootstrap.js - 200 OK (18ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 219.142.69.78 at 2015-11-30 13:14:17 +0800
+Processing by AdminsController#login as HTML
+  Rendered admins/login.html.erb within layouts/application (4.6ms)
+  Rendered shared/_shim.html.erb (0.4ms)
+  Rendered shared/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 224ms (Views: 223.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:17 +0800
+
+
+Started GET "/assets/address.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:17 +0800
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:17 +0800
+
+
+Started GET "/assets/global.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:17 +0800
+Served asset /address.js - 304 Not Modified (2ms)
+Served asset /global.js - 304 Not Modified (1ms)
+Served asset /jquery.js - 200 OK (7ms)
+Served asset /bootstrap.min.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:17 +0800
+Served asset /jquery-1.11.0.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.pnotify.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:17 +0800
+Served asset /jquery.pnotify.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logs.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:18 +0800
+Served asset /logs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/resources.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:18 +0800
+Served asset /resources.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:18 +0800
+Served asset /bootstrap-modal.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:18 +0800
+Served asset /bootstrap-tab.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:18 +0800
+Served asset /bootstrap-tooltip.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:18 +0800
+Served asset /bootstrap-typeahead.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/address.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:19 +0800
+Served asset /address.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/admins.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:19 +0800
+Served asset /admins.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:19 +0800
+Served asset /bootstrap.min.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:19 +0800
+Served asset /jquery-1.11.0.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.validate.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:19 +0800
+Served asset /jquery.validate.min.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/md5.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:19 +0800
+Served asset /md5.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/messages_zh.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:19 +0800
+Served asset /messages_zh.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/resources.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /resources.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/upload.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /upload.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /bootstrap-transition.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /bootstrap-button.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /bootstrap-collapse.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /bootstrap-modal.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /bootstrap-typeahead.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:20 +0800
+Served asset /bootstrap.js - 304 Not Modified (17ms)
+
+
+Started GET "/" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Processing by AdminsController#login as HTML
+  Rendered admins/login.html.erb within layouts/application (4.6ms)
+  Rendered shared/_shim.html.erb (0.4ms)
+  Rendered shared/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 222ms (Views: 221.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/admins.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/custom.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /admins.css - 304 Not Modified (3ms)
+Served asset /custom.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/logs.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/register/bootstrap-switch.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /logs.css - 304 Not Modified (1ms)
+Served asset /register/bootstrap-switch.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/bootstrap.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /register/bootstrap.min.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/css.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /register/css.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/register/default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /register/default.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/font-awesome.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /register/font-awesome.min.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/ionicons.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/register/jquery.pnotify.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /register/ionicons.min.css - 304 Not Modified (5ms)
+Served asset /register/jquery.pnotify.default.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.icons.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /register/jquery.pnotify.default.icons.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/plugins.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /register/plugins.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/print.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /register/print.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/select2-metronic.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /register/select2-metronic.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/select2.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/register/signin.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/register/style-responsive.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /register/signin.css - 304 Not Modified (1ms)
+Served asset /register/select2.css - 304 Not Modified (1ms)
+Served asset /register/style-responsive.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/style.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/register/tasks.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /register/style.css - 304 Not Modified (3ms)
+Served asset /register/tasks.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/uniform.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /scaffolds.css - 304 Not Modified (2ms)
+Served asset /register/uniform.default.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/timeline.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /timeline.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/upload.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/font-awesome.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /upload.css - 304 Not Modified (1ms)
+Served asset /font-awesome.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/address.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/admins.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /address.js - 304 Not Modified (2ms)
+Served asset /admins.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap-switch.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /bootstrap-switch.min.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/global.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /bootstrap.min.js - 304 Not Modified (2ms)
+Served asset /global.js - 304 Not Modified (2ms)
+Served asset /jquery-1.11.0.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.pnotify.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /jquery.pnotify.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.validate.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /jquery.validate.min.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/logs.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/md5.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /logs.js - 304 Not Modified (2ms)
+Served asset /md5.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/messages_zh.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /messages_zh.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/resources.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /resources.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/upload.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /upload.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /bootstrap-transition.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /bootstrap-button.js - 304 Not Modified (5ms)
+Served asset /bootstrap-alert.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /bootstrap-collapse.js - 304 Not Modified (2ms)
+Served asset /bootstrap-carousel.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /bootstrap-dropdown.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+
+
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Started GET "/assets/bootstrap-tab.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+Served asset /bootstrap-modal.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:25 +0800
+Served asset /bootstrap-tooltip.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:26 +0800
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:26 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:26 +0800
+Served asset /bootstrap-popover.js - 304 Not Modified (4ms)
+Served asset /bootstrap-typeahead.js - 304 Not Modified (3ms)
+Served asset /bootstrap.js - 304 Not Modified (17ms)
+
+
+Started GET "/assets/jquery.pnotify.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:26 +0800
+Served asset /jquery.pnotify.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/resources.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:26 +0800
+Served asset /resources.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:27 +0800
+Served asset /bootstrap-alert.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:27 +0800
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:27 +0800
+Served asset /bootstrap-carousel.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:27 +0800
+Served asset /bootstrap-modal.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:27 +0800
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:27 +0800
+Served asset /bootstrap-tooltip.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:27 +0800
+Served asset /bootstrap-typeahead.js - 304 Not Modified (3ms)
+
+
+Started GET "/" for 219.142.69.78 at 2015-11-30 13:14:28 +0800
+Processing by AdminsController#login as HTML
+  Rendered admins/login.html.erb within layouts/application (0.8ms)
+  Rendered shared/_shim.html.erb (0.0ms)
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 98ms (Views: 97.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/admins.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /admins.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/custom.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+
+
+Started GET "/assets/register/bootstrap-switch.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+
+
+Started GET "/assets/logs.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /register/bootstrap-switch.css - 304 Not Modified (0ms)
+Served asset /custom.css - 304 Not Modified (9ms)
+Served asset /logs.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/bootstrap.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /register/bootstrap.min.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/css.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /register/css.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /register/default.css - 304 Not Modified (0ms)
+
+
+
+
+Started GET "/assets/register/font-awesome.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Started GET "/assets/register/ionicons.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /register/ionicons.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /register/font-awesome.min.css - 304 Not Modified (4ms)
+Served asset /register/jquery.pnotify.default.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.icons.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+
+
+Started GET "/assets/register/plugins.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /register/jquery.pnotify.default.icons.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/register/print.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+
+
+Served asset /register/plugins.css - 304 Not Modified (1ms)
+Started GET "/assets/register/select2-metronic.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /register/select2-metronic.css - 304 Not Modified (1ms)
+Served asset /register/print.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/register/select2.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+
+
+Started GET "/assets/register/signin.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+
+
+Started GET "/assets/register/style-responsive.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /register/select2.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/style.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /register/signin.css - 304 Not Modified (1ms)
+Served asset /register/style.css - 304 Not Modified (1ms)
+Served asset /register/style-responsive.css - 304 Not Modified (27ms)
+
+
+Started GET "/assets/register/tasks.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /register/tasks.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/uniform.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+Served asset /register/uniform.default.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/timeline.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /timeline.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/upload.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+
+
+Started GET "/assets/font-awesome.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /upload.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /font-awesome.css - 304 Not Modified (0ms)
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+Served asset /jquery.js - 304 Not Modified (30ms)
+
+
+Started GET "/assets/address.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+
+
+Started GET "/assets/admins.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /address.js - 304 Not Modified (3ms)
+Served asset /admins.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-switch.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /bootstrap-switch.min.js - 304 Not Modified (3ms)
+Served asset /bootstrap.min.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/global.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /global.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /jquery-1.11.0.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.pnotify.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /jquery.pnotify.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.validate.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /jquery.validate.min.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/logs.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /logs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/md5.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /md5.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/messages_zh.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /messages_zh.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/resources.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /resources.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/upload.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /upload.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /bootstrap-transition.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:29 +0800
+Served asset /bootstrap-alert.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /bootstrap-button.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /bootstrap-carousel.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /bootstrap-collapse.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /bootstrap-dropdown.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /bootstrap-modal.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /bootstrap-tab.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /bootstrap-popover.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /bootstrap.js - 304 Not Modified (18ms)
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:30 +0800
+Served asset /jquery-1.11.0.js - 304 Not Modified (4ms)
+
+
+Started GET "/" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+Processing by AdminsController#login as HTML
+  Rendered admins/login.html.erb within layouts/application (4.6ms)
+  Rendered shared/_shim.html.erb (0.4ms)
+  Rendered shared/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 223ms (Views: 222.6ms | ActiveRecord: 0.0ms)
+
+
+
+
+Started GET "/assets/admins.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+Started GET "/assets/custom.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+
+
+
+
+Started GET "/assets/logs.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+Started GET "/assets/register/bootstrap-switch.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+Served asset /admins.css - 304 Not Modified (0ms)
+Served asset /register/bootstrap-switch.css - 304 Not Modified (0ms)
+Served asset /logs.css - 304 Not Modified (3ms)
+Served asset /custom.css - 304 Not Modified (14ms)
+
+
+Started GET "/assets/register/bootstrap.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+Served asset /register/bootstrap.min.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/css.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+Served asset /register/css.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+Served asset /register/default.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/font-awesome.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+
+
+Started GET "/assets/register/ionicons.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+Served asset /register/font-awesome.min.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+Served asset /register/ionicons.min.css - 304 Not Modified (2ms)
+Served asset /register/jquery.pnotify.default.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.icons.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+Served asset /register/jquery.pnotify.default.icons.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/plugins.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:43 +0800
+Served asset /register/plugins.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/print.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /register/print.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/select2-metronic.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /register/select2-metronic.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/select2.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /register/select2.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/signin.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+
+
+Served asset /register/signin.css - 304 Not Modified (0ms)
+Started GET "/assets/register/style-responsive.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /register/style-responsive.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/register/style.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /register/style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/register/tasks.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /register/tasks.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/uniform.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+
+
+Started GET "/assets/scaffolds.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /register/uniform.default.css - 304 Not Modified (0ms)
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/timeline.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+
+
+Started GET "/assets/upload.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /timeline.css - 304 Not Modified (1ms)
+Served asset /upload.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /font-awesome.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /jquery.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/address.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /address.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/admins.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+
+
+Started GET "/assets/bootstrap-switch.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /admins.js - 304 Not Modified (2ms)
+Served asset /bootstrap-switch.min.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /bootstrap.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/global.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /global.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /jquery-1.11.0.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.pnotify.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+
+
+Started GET "/assets/jquery.validate.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /jquery.pnotify.js - 304 Not Modified (0ms)
+Served asset /jquery.validate.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logs.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+
+
+Started GET "/assets/md5.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /md5.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/messages_zh.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /messages_zh.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/resources.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /resources.js - 304 Not Modified (0ms)
+Served asset /logs.js - 304 Not Modified (31ms)
+
+
+Started GET "/assets/upload.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /upload.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+
+
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Started GET "/assets/bootstrap-carousel.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+Served asset /bootstrap-alert.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /bootstrap-button.js - 304 Not Modified (3ms)
+Served asset /bootstrap-collapse.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /bootstrap-dropdown.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /bootstrap-modal.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /bootstrap-popover.js - 304 Not Modified (3ms)
+Served asset /bootstrap-typeahead.js - 304 Not Modified (5ms)
+Served asset /bootstrap-tooltip.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:44 +0800
+Served asset /bootstrap.js - 304 Not Modified (1ms)
+
+
+Started GET "/" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Processing by AdminsController#login as HTML
+  Rendered admins/login.html.erb within layouts/application (25.9ms)
+  Rendered shared/_shim.html.erb (0.4ms)
+  Rendered shared/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 247ms (Views: 246.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/admins.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/custom.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /admins.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logs.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /custom.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/bootstrap-switch.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /logs.css - 304 Not Modified (2ms)
+Served asset /register/bootstrap-switch.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/bootstrap.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /register/bootstrap.min.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/register/css.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/register/default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/register/font-awesome.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /register/css.css - 304 Not Modified (2ms)
+Served asset /register/font-awesome.min.css - 304 Not Modified (0ms)
+Served asset /register/default.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/ionicons.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/register/jquery.pnotify.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /register/ionicons.min.css - 304 Not Modified (0ms)
+Served asset /register/jquery.pnotify.default.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.icons.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/register/plugins.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/register/print.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/register/select2-metronic.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /register/print.css - 304 Not Modified (0ms)
+Served asset /register/jquery.pnotify.default.icons.css - 304 Not Modified (3ms)
+Served asset /register/plugins.css - 304 Not Modified (1ms)
+Served asset /register/select2-metronic.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/register/select2.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /register/select2.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/signin.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/register/style-responsive.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /register/signin.css - 304 Not Modified (3ms)
+Served asset /register/style-responsive.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/register/style.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/register/tasks.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /register/style.css - 304 Not Modified (0ms)
+Served asset /register/tasks.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/register/uniform.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /register/uniform.default.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /scaffolds.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/timeline.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /timeline.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/upload.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/font-awesome.css?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /upload.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /font-awesome.css - 304 Not Modified (4ms)
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/address.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/admins.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/bootstrap-switch.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /admins.js - 304 Not Modified (2ms)
+Served asset /address.js - 304 Not Modified (0ms)
+Served asset /bootstrap-switch.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /bootstrap.min.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/global.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /global.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/jquery.pnotify.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /jquery-1.11.0.js - 304 Not Modified (1ms)
+Served asset /jquery.pnotify.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.validate.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /jquery.validate.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logs.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+
+
+Started GET "/assets/messages_zh.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /logs.js - 304 Not Modified (0ms)
+Served asset /messages_zh.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/resources.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:46 +0800
+Served asset /resources.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/upload.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+Served asset /upload.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+Served asset /bootstrap-transition.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+Served asset /bootstrap-alert.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+
+
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+Started GET "/assets/bootstrap-collapse.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+Served asset /bootstrap-dropdown.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+Served asset /bootstrap-modal.js - 304 Not Modified (4ms)
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+Served asset /bootstrap-tooltip.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+
+Served asset /bootstrap-popover.js - 304 Not Modified (3ms)
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+Served asset /bootstrap-typeahead.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/md5.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+Served asset /md5.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:47 +0800
+Served asset /bootstrap.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.pnotify.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:49 +0800
+Served asset /jquery.pnotify.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.validate.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:49 +0800
+Served asset /jquery.validate.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/upload.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:49 +0800
+Served asset /upload.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:49 +0800
+Served asset /bootstrap-transition.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:50 +0800
+Served asset /bootstrap-alert.js - 304 Not Modified (29ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:50 +0800
+Served asset /bootstrap-button.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:50 +0800
+Served asset /bootstrap-carousel.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:50 +0800
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:50 +0800
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:50 +0800
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:50 +0800
+Served asset /bootstrap-tab.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:50 +0800
+Served asset /bootstrap-popover.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 219.142.69.78 at 2015-11-30 13:14:50 +0800
+Served asset /bootstrap.js - 304 Not Modified (18ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+Processing by AdminsController#login as HTML
+  Rendered admins/login.html.erb within layouts/application (3.7ms)
+  Rendered shared/_shim.html.erb (0.3ms)
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 180ms (Views: 179.4ms | ActiveRecord: 0.0ms)
+
+
+
+
+Started GET "/assets/admins.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+
+
+Started GET "/assets/register/bootstrap-switch.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+Started GET "/assets/custom.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+
+
+Started GET "/assets/logs.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+
+
+Started GET "/assets/register/bootstrap.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+Served asset /admins.css - 304 Not Modified (2ms)
+Served asset /register/bootstrap-switch.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/css.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+Served asset /register/css.css - 304 Not Modified (1ms)
+Served asset /custom.css - 304 Not Modified (7ms)
+Served asset /logs.css - 304 Not Modified (2ms)
+Served asset /register/bootstrap.min.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/ionicons.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+
+
+
+
+Started GET "/assets/register/font-awesome.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+Started GET "/assets/register/default.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+
+
+Started GET "/assets/register/jquery.pnotify.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+Served asset /register/ionicons.min.css - 304 Not Modified (33ms)
+Served asset /register/jquery.pnotify.default.css - 304 Not Modified (2ms)
+Served asset /register/font-awesome.min.css - 304 Not Modified (2ms)
+Served asset /register/default.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.icons.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+
+
+Started GET "/assets/register/plugins.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+Served asset /register/jquery.pnotify.default.icons.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/print.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+Served asset /register/plugins.css - 304 Not Modified (1ms)
+Served asset /register/print.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/select2-metronic.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:15 +0800
+Served asset /register/select2-metronic.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/select2.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /register/select2.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/signin.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /register/signin.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/style-responsive.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /register/style-responsive.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/style.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /register/style.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/tasks.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/register/uniform.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Served asset /register/tasks.css - 304 Not Modified (4ms)
+Started GET "/assets/scaffolds.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /register/uniform.default.css - 304 Not Modified (2ms)
+Served asset /scaffolds.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/timeline.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/upload.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/font-awesome.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /timeline.css - 304 Not Modified (2ms)
+Served asset /upload.css - 304 Not Modified (1ms)
+Served asset /font-awesome.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/address.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /jquery_ujs.js - 304 Not Modified (7ms)
+Served asset /address.js - 304 Not Modified (3ms)
+
+
+
+
+Started GET "/assets/admins.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Started GET "/assets/bootstrap-switch.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /admins.js - 304 Not Modified (1ms)
+Served asset /bootstrap-switch.min.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/global.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /bootstrap.min.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.pnotify.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /jquery-1.11.0.js - 304 Not Modified (2ms)
+Served asset /jquery.pnotify.js - 304 Not Modified (1ms)
+Served asset /global.js - 304 Not Modified (27ms)
+
+
+Started GET "/assets/jquery.validate.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/logs.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/md5.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /md5.js - 304 Not Modified (3ms)
+Served asset /logs.js - 304 Not Modified (2ms)
+Served asset /jquery.validate.min.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/messages_zh.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /messages_zh.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/resources.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/upload.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /resources.js - 304 Not Modified (4ms)
+Served asset /upload.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /bootstrap-transition.js - 304 Not Modified (4ms)
+Served asset /bootstrap-alert.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Started GET "/assets/bootstrap-carousel.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /bootstrap-button.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /bootstrap-dropdown.js - 304 Not Modified (2ms)
+Served asset /bootstrap-carousel.js - 304 Not Modified (3ms)
+Served asset /bootstrap-collapse.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /bootstrap-modal.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (5ms)
+Served asset /bootstrap-tooltip.js - 304 Not Modified (3ms)
+Served asset /bootstrap-tab.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /bootstrap-popover.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:16 +0800
+Served asset /bootstrap-typeahead.js - 304 Not Modified (3ms)
+Served asset /bootstrap.js - 304 Not Modified (16ms)
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:17 +0800
+Served asset /jquery-1.11.0.js - 304 Not Modified (3ms)
+
+
+Started GET "/" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Processing by AdminsController#login as HTML
+  Rendered admins/login.html.erb within layouts/application (26.5ms)
+  Rendered shared/_shim.html.erb (0.5ms)
+  Rendered shared/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 259ms (Views: 258.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/admins.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+
+
+Started GET "/assets/custom.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /admins.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/logs.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+
+
+Started GET "/assets/register/bootstrap-switch.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /custom.css - 304 Not Modified (13ms)
+Served asset /logs.css - 304 Not Modified (2ms)
+Served asset /register/bootstrap-switch.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/bootstrap.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+
+
+Started GET "/assets/register/css.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/bootstrap.min.css - 304 Not Modified (4ms)
+Served asset /register/css.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/register/default.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+
+
+Started GET "/assets/register/font-awesome.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+
+
+Started GET "/assets/register/ionicons.min.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/default.css - 304 Not Modified (3ms)
+
+Served asset /register/font-awesome.min.css - 304 Not Modified (4ms)
+
+Started GET "/assets/register/jquery.pnotify.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/ionicons.min.css - 304 Not Modified (2ms)
+Served asset /register/jquery.pnotify.default.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/register/jquery.pnotify.default.icons.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+
+
+Started GET "/assets/register/plugins.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/plugins.css - 304 Not Modified (0ms)
+Served asset /register/jquery.pnotify.default.icons.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/print.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/register/select2-metronic.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/select2-metronic.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/select2.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/select2.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/signin.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/signin.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/style-responsive.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/style-responsive.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/style.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/style.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/register/tasks.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/tasks.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/register/uniform.default.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /register/uniform.default.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/timeline.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /timeline.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/upload.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /upload.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /font-awesome.css - 304 Not Modified (4ms)
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/address.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /address.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/admins.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /admins.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-switch.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /bootstrap-switch.min.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /bootstrap.min.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/global.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /global.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /jquery-1.11.0.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.validate.min.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /jquery.validate.min.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/logs.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /logs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/md5.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /md5.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/messages_zh.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+
+
+Started GET "/assets/resources.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /resources.js - 304 Not Modified (0ms)
+Served asset /messages_zh.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/upload.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /upload.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:22 +0800
+Served asset /bootstrap-transition.js - 304 Not Modified (6ms)
+Served asset /bootstrap-button.js - 304 Not Modified (2ms)
+Served asset /bootstrap-alert.js - 304 Not Modified (11ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:23 +0800
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:23 +0800
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:23 +0800
+Served asset /bootstrap-dropdown.js - 304 Not Modified (3ms)
+Served asset /bootstrap-collapse.js - 304 Not Modified (3ms)
+Served asset /bootstrap-carousel.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:23 +0800
+Served asset /bootstrap-modal.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:23 +0800
+Served asset /bootstrap-tab.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:23 +0800
+Served asset /bootstrap-tooltip.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.pnotify.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:23 +0800
+Served asset /jquery.pnotify.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:23 +0800
+Served asset /bootstrap-popover.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:23 +0800
+
+
+Started GET "/assets/bootstrap.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:23 +0800
+Served asset /bootstrap.js - 304 Not Modified (1ms)
+Served asset /bootstrap-typeahead.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:23 +0800
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery-1.11.0.js?body=1" for 219.142.69.78 at 2015-11-30 13:18:24 +0800
+Served asset /jquery-1.11.0.js - 304 Not Modified (1ms)

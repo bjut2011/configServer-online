@@ -1,0 +1,229 @@
+I, [2015-11-30T11:14:04.107402 #16144]  INFO -- : listening on addr=0.0.0.0:8080 fd=10
+I, [2015-11-30T11:14:04.107833 #16144]  INFO -- : unlinking existing socket=/tmp/unicorn.sock
+I, [2015-11-30T11:14:04.108018 #16144]  INFO -- : listening on addr=/tmp/unicorn.sock fd=11
+I, [2015-11-30T11:14:04.108170 #16144]  INFO -- : worker=0 spawning...
+I, [2015-11-30T11:14:04.109139 #16144]  INFO -- : worker=1 spawning...
+I, [2015-11-30T11:14:04.109729 #16147]  INFO -- : worker=0 spawned pid=16147
+I, [2015-11-30T11:14:04.109987 #16147]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:14:04.110003 #16144]  INFO -- : worker=2 spawning...
+I, [2015-11-30T11:14:04.110655 #16150]  INFO -- : worker=1 spawned pid=16150
+I, [2015-11-30T11:14:04.110911 #16150]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:14:04.113741 #16144]  INFO -- : worker=3 spawning...
+I, [2015-11-30T11:14:04.114324 #16153]  INFO -- : worker=2 spawned pid=16153
+I, [2015-11-30T11:14:04.114589 #16153]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:14:04.114574 #16144]  INFO -- : worker=4 spawning...
+I, [2015-11-30T11:14:04.115181 #16156]  INFO -- : worker=3 spawned pid=16156
+I, [2015-11-30T11:14:04.115396 #16156]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:14:04.117924 #16144]  INFO -- : worker=5 spawning...
+I, [2015-11-30T11:14:04.118504 #16159]  INFO -- : worker=4 spawned pid=16159
+I, [2015-11-30T11:14:04.118739 #16159]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:14:04.118858 #16144]  INFO -- : worker=6 spawning...
+I, [2015-11-30T11:14:04.119410 #16162]  INFO -- : worker=5 spawned pid=16162
+I, [2015-11-30T11:14:04.119628 #16162]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:14:04.119683 #16144]  INFO -- : worker=7 spawning...
+I, [2015-11-30T11:14:04.120451 #16165]  INFO -- : worker=6 spawned pid=16165
+I, [2015-11-30T11:14:04.120679 #16165]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:14:04.124572 #16144]  INFO -- : worker=8 spawning...
+I, [2015-11-30T11:14:04.125303 #16168]  INFO -- : worker=7 spawned pid=16168
+I, [2015-11-30T11:14:04.125624 #16168]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:14:04.130210 #16144]  INFO -- : master process ready
+I, [2015-11-30T11:14:04.145648 #16171]  INFO -- : worker=8 spawned pid=16171
+I, [2015-11-30T11:14:04.145921 #16171]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:14:08.694789 #16159]  INFO -- : worker=4 ready
+I, [2015-11-30T11:14:08.860741 #16156]  INFO -- : worker=3 ready
+I, [2015-11-30T11:14:09.021050 #16162]  INFO -- : worker=5 ready
+I, [2015-11-30T11:14:09.206665 #16171]  INFO -- : worker=8 ready
+I, [2015-11-30T11:14:09.226391 #16153]  INFO -- : worker=2 ready
+I, [2015-11-30T11:14:09.283364 #16165]  INFO -- : worker=6 ready
+I, [2015-11-30T11:14:09.327412 #16168]  INFO -- : worker=7 ready
+I, [2015-11-30T11:14:09.342898 #16150]  INFO -- : worker=1 ready
+I, [2015-11-30T11:14:09.349680 #16147]  INFO -- : worker=0 ready
+I, [2015-11-30T11:18:13.717120 #16442]  INFO -- : listening on addr=0.0.0.0:8080 fd=10
+I, [2015-11-30T11:18:13.717705 #16442]  INFO -- : unlinking existing socket=/tmp/unicorn.sock
+I, [2015-11-30T11:18:13.717898 #16442]  INFO -- : listening on addr=/tmp/unicorn.sock fd=11
+I, [2015-11-30T11:18:13.718116 #16442]  INFO -- : worker=0 spawning...
+I, [2015-11-30T11:18:13.719708 #16442]  INFO -- : worker=1 spawning...
+I, [2015-11-30T11:18:13.720504 #16445]  INFO -- : worker=0 spawned pid=16445
+I, [2015-11-30T11:18:13.720673 #16442]  INFO -- : worker=2 spawning...
+I, [2015-11-30T11:18:13.721306 #16448]  INFO -- : worker=1 spawned pid=16448
+I, [2015-11-30T11:18:13.720782 #16445]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:18:13.722106 #16442]  INFO -- : worker=3 spawning...
+I, [2015-11-30T11:18:13.722162 #16448]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:18:13.722195 #16451]  INFO -- : worker=2 spawned pid=16451
+I, [2015-11-30T11:18:13.722478 #16451]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:18:13.722942 #16442]  INFO -- : worker=4 spawning...
+I, [2015-11-30T11:18:13.723561 #16454]  INFO -- : worker=3 spawned pid=16454
+I, [2015-11-30T11:18:13.723817 #16454]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:18:13.725682 #16442]  INFO -- : worker=5 spawning...
+I, [2015-11-30T11:18:13.726255 #16457]  INFO -- : worker=4 spawned pid=16457
+I, [2015-11-30T11:18:13.726484 #16457]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:18:13.726569 #16442]  INFO -- : worker=6 spawning...
+I, [2015-11-30T11:18:13.727142 #16460]  INFO -- : worker=5 spawned pid=16460
+I, [2015-11-30T11:18:13.727365 #16460]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:18:13.727368 #16442]  INFO -- : worker=7 spawning...
+I, [2015-11-30T11:18:13.728212 #16463]  INFO -- : worker=6 spawned pid=16463
+I, [2015-11-30T11:18:13.728495 #16463]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:18:13.730329 #16442]  INFO -- : worker=8 spawning...
+I, [2015-11-30T11:18:13.731205 #16442]  INFO -- : master process ready
+I, [2015-11-30T11:18:13.737890 #16468]  INFO -- : worker=8 spawned pid=16468
+I, [2015-11-30T11:18:13.737891 #16466]  INFO -- : worker=7 spawned pid=16466
+I, [2015-11-30T11:18:13.738206 #16466]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:18:13.738207 #16468]  INFO -- : Refreshing Gem list
+I, [2015-11-30T11:18:18.313917 #16463]  INFO -- : worker=6 ready
+I, [2015-11-30T11:18:18.637169 #16468]  INFO -- : worker=8 ready
+I, [2015-11-30T11:18:18.669915 #16445]  INFO -- : worker=0 ready
+I, [2015-11-30T11:18:18.719230 #16448]  INFO -- : worker=1 ready
+I, [2015-11-30T11:18:18.804218 #16454]  INFO -- : worker=3 ready
+I, [2015-11-30T11:18:18.804233 #16460]  INFO -- : worker=5 ready
+I, [2015-11-30T11:18:18.845754 #16457]  INFO -- : worker=4 ready
+I, [2015-11-30T11:18:18.848280 #16451]  INFO -- : worker=2 ready
+I, [2015-11-30T11:18:18.931780 #16466]  INFO -- : worker=7 ready
+E, [2015-11-30T12:13:06.939429 #32310] ERROR -- : adding listener failed addr=0.0.0.0:8080 (in use)
+E, [2015-11-30T12:13:06.939642 #32310] ERROR -- : retrying in 0.5 seconds (4 tries left)
+E, [2015-11-30T12:13:07.440195 #32310] ERROR -- : adding listener failed addr=0.0.0.0:8080 (in use)
+E, [2015-11-30T12:13:07.441796 #32310] ERROR -- : retrying in 0.5 seconds (3 tries left)
+E, [2015-11-30T12:13:07.942368 #32310] ERROR -- : adding listener failed addr=0.0.0.0:8080 (in use)
+E, [2015-11-30T12:13:07.942523 #32310] ERROR -- : retrying in 0.5 seconds (2 tries left)
+E, [2015-11-30T12:13:08.442943 #32310] ERROR -- : adding listener failed addr=0.0.0.0:8080 (in use)
+E, [2015-11-30T12:13:08.443046 #32310] ERROR -- : retrying in 0.5 seconds (1 tries left)
+E, [2015-11-30T12:13:08.943553 #32310] ERROR -- : adding listener failed addr=0.0.0.0:8080 (in use)
+E, [2015-11-30T12:13:08.943720 #32310] ERROR -- : retrying in 0.5 seconds (0 tries left)
+E, [2015-11-30T12:13:09.444237 #32310] ERROR -- : adding listener failed addr=0.0.0.0:8080 (in use)
+/home/smartwifi/.rvm/gems/ruby-1.9.3-p551/gems/unicorn-4.8.3/lib/unicorn/socket_helper.rb:185:in `bind': Address already in use - bind(2) (Errno::EADDRINUSE)
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/gems/unicorn-4.8.3/lib/unicorn/socket_helper.rb:185:in `new_tcp_server'
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/gems/unicorn-4.8.3/lib/unicorn/socket_helper.rb:165:in `bind_listen'
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:242:in `listen'
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:809:in `block in bind_new_listeners!'
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:809:in `each'
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:809:in `bind_new_listeners!'
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/gems/unicorn-4.8.3/lib/unicorn/http_server.rb:138:in `start'
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/gems/unicorn-4.8.3/bin/unicorn_rails:209:in `<top (required)>'
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/bin/unicorn_rails:23:in `load'
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/bin/unicorn_rails:23:in `<main>'
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `eval'
+	from /home/smartwifi/.rvm/gems/ruby-1.9.3-p551/bin/ruby_executable_hooks:15:in `<main>'
+I, [2015-11-30T12:13:19.059910 #32324]  INFO -- : listening on addr=0.0.0.0:8080 fd=10
+I, [2015-11-30T12:13:19.060376 #32324]  INFO -- : unlinking existing socket=/tmp/unicorn.sock
+I, [2015-11-30T12:13:19.060611 #32324]  INFO -- : listening on addr=/tmp/unicorn.sock fd=11
+I, [2015-11-30T12:13:19.060769 #32324]  INFO -- : worker=0 spawning...
+I, [2015-11-30T12:13:19.061758 #32324]  INFO -- : worker=1 spawning...
+I, [2015-11-30T12:13:19.062489 #32324]  INFO -- : worker=2 spawning...
+I, [2015-11-30T12:13:19.062508 #32327]  INFO -- : worker=0 spawned pid=32327
+I, [2015-11-30T12:13:19.062924 #32327]  INFO -- : Refreshing Gem list
+I, [2015-11-30T12:13:19.063143 #32330]  INFO -- : worker=1 spawned pid=32330
+I, [2015-11-30T12:13:19.063277 #32324]  INFO -- : worker=3 spawning...
+I, [2015-11-30T12:13:19.063402 #32330]  INFO -- : Refreshing Gem list
+I, [2015-11-30T12:13:19.063964 #32333]  INFO -- : worker=2 spawned pid=32333
+I, [2015-11-30T12:13:19.064211 #32333]  INFO -- : Refreshing Gem list
+I, [2015-11-30T12:13:19.065666 #32324]  INFO -- : worker=4 spawning...
+I, [2015-11-30T12:13:19.066269 #32336]  INFO -- : worker=3 spawned pid=32336
+I, [2015-11-30T12:13:19.066527 #32336]  INFO -- : Refreshing Gem list
+I, [2015-11-30T12:13:19.066510 #32324]  INFO -- : worker=5 spawning...
+I, [2015-11-30T12:13:19.067123 #32339]  INFO -- : worker=4 spawned pid=32339
+I, [2015-11-30T12:13:19.067339 #32339]  INFO -- : Refreshing Gem list
+I, [2015-11-30T12:13:19.070027 #32324]  INFO -- : worker=6 spawning...
+I, [2015-11-30T12:13:19.070683 #32342]  INFO -- : worker=5 spawned pid=32342
+I, [2015-11-30T12:13:19.070865 #32324]  INFO -- : worker=7 spawning...
+I, [2015-11-30T12:13:19.070923 #32342]  INFO -- : Refreshing Gem list
+I, [2015-11-30T12:13:19.071628 #32324]  INFO -- : worker=8 spawning...
+I, [2015-11-30T12:13:19.072534 #32345]  INFO -- : worker=6 spawned pid=32345
+I, [2015-11-30T12:13:19.072777 #32345]  INFO -- : Refreshing Gem list
+I, [2015-11-30T12:13:19.076578 #32347]  INFO -- : worker=7 spawned pid=32347
+I, [2015-11-30T12:13:19.076972 #32347]  INFO -- : Refreshing Gem list
+I, [2015-11-30T12:13:19.078013 #32324]  INFO -- : master process ready
+I, [2015-11-30T12:13:19.099938 #32351]  INFO -- : worker=8 spawned pid=32351
+I, [2015-11-30T12:13:19.100205 #32351]  INFO -- : Refreshing Gem list
+I, [2015-11-30T12:13:23.755649 #32333]  INFO -- : worker=2 ready
+I, [2015-11-30T12:13:24.083579 #32330]  INFO -- : worker=1 ready
+I, [2015-11-30T12:13:24.091168 #32345]  INFO -- : worker=6 ready
+I, [2015-11-30T12:13:24.112058 #32339]  INFO -- : worker=4 ready
+I, [2015-11-30T12:13:24.128400 #32336]  INFO -- : worker=3 ready
+I, [2015-11-30T12:13:24.132426 #32327]  INFO -- : worker=0 ready
+I, [2015-11-30T12:13:24.138537 #32342]  INFO -- : worker=5 ready
+I, [2015-11-30T12:13:24.141707 #32351]  INFO -- : worker=8 ready
+I, [2015-11-30T12:13:24.141707 #32347]  INFO -- : worker=7 ready
+I, [2015-11-30T13:13:01.297999 #33511]  INFO -- : listening on addr=0.0.0.0:8080 fd=10
+I, [2015-11-30T13:13:01.298457 #33511]  INFO -- : listening on addr=/tmp/unicorn.sock fd=11
+I, [2015-11-30T13:13:01.298624 #33511]  INFO -- : worker=0 spawning...
+I, [2015-11-30T13:13:01.299583 #33511]  INFO -- : worker=1 spawning...
+I, [2015-11-30T13:13:01.300284 #33511]  INFO -- : worker=2 spawning...
+I, [2015-11-30T13:13:01.300207 #33514]  INFO -- : worker=0 spawned pid=33514
+I, [2015-11-30T13:13:01.300482 #33514]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:13:01.301020 #33517]  INFO -- : worker=1 spawned pid=33517
+I, [2015-11-30T13:13:01.301273 #33517]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:13:01.301547 #33511]  INFO -- : worker=3 spawning...
+I, [2015-11-30T13:13:01.302124 #33520]  INFO -- : worker=2 spawned pid=33520
+I, [2015-11-30T13:13:01.302284 #33511]  INFO -- : worker=4 spawning...
+I, [2015-11-30T13:13:01.303092 #33520]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:13:01.303932 #33523]  INFO -- : worker=3 spawned pid=33523
+I, [2015-11-30T13:13:01.304139 #33511]  INFO -- : worker=5 spawning...
+I, [2015-11-30T13:13:01.304198 #33523]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:13:01.304915 #33511]  INFO -- : worker=6 spawning...
+I, [2015-11-30T13:13:01.305396 #33526]  INFO -- : worker=4 spawned pid=33526
+I, [2015-11-30T13:13:01.305651 #33526]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:13:01.305710 #33529]  INFO -- : worker=5 spawned pid=33529
+I, [2015-11-30T13:13:01.305934 #33529]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:13:01.310094 #33511]  INFO -- : worker=7 spawning...
+I, [2015-11-30T13:13:01.311149 #33532]  INFO -- : worker=6 spawned pid=33532
+I, [2015-11-30T13:13:01.311381 #33532]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:13:01.315507 #33511]  INFO -- : worker=8 spawning...
+I, [2015-11-30T13:13:01.316177 #33535]  INFO -- : worker=7 spawned pid=33535
+I, [2015-11-30T13:13:01.316471 #33535]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:13:01.333947 #33511]  INFO -- : master process ready
+I, [2015-11-30T13:13:01.353540 #33538]  INFO -- : worker=8 spawned pid=33538
+I, [2015-11-30T13:13:01.353768 #33538]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:13:05.036864 #33532]  INFO -- : worker=6 ready
+I, [2015-11-30T13:13:05.078149 #33523]  INFO -- : worker=3 ready
+I, [2015-11-30T13:13:05.112458 #33514]  INFO -- : worker=0 ready
+I, [2015-11-30T13:13:05.115843 #33520]  INFO -- : worker=2 ready
+I, [2015-11-30T13:13:05.183493 #33517]  INFO -- : worker=1 ready
+I, [2015-11-30T13:13:05.212883 #33535]  INFO -- : worker=7 ready
+I, [2015-11-30T13:13:05.212900 #33529]  INFO -- : worker=5 ready
+I, [2015-11-30T13:13:05.253312 #33526]  INFO -- : worker=4 ready
+I, [2015-11-30T13:13:05.392257 #33538]  INFO -- : worker=8 ready
+E, [2015-11-30T13:13:47.372984 #33511] ERROR -- : worker=4 PID:33526 timeout (31s > 30s), killing
+E, [2015-11-30T13:13:47.384511 #33511] ERROR -- : reaped #<Process::Status: pid 33526 SIGKILL (signal 9)> worker=4
+I, [2015-11-30T13:13:47.384662 #33511]  INFO -- : worker=4 spawning...
+I, [2015-11-30T13:13:47.386818 #33578]  INFO -- : worker=4 spawned pid=33578
+I, [2015-11-30T13:13:47.387078 #33578]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:13:49.942747 #33578]  INFO -- : worker=4 ready
+I, [2015-11-30T13:18:10.487783 #33640]  INFO -- : listening on addr=0.0.0.0:8080 fd=10
+I, [2015-11-30T13:18:10.488279 #33640]  INFO -- : unlinking existing socket=/tmp/unicorn.sock
+I, [2015-11-30T13:18:10.488429 #33640]  INFO -- : listening on addr=/tmp/unicorn.sock fd=11
+I, [2015-11-30T13:18:10.488591 #33640]  INFO -- : worker=0 spawning...
+I, [2015-11-30T13:18:10.489811 #33640]  INFO -- : worker=1 spawning...
+I, [2015-11-30T13:18:10.490476 #33643]  INFO -- : worker=0 spawned pid=33643
+I, [2015-11-30T13:18:10.490685 #33640]  INFO -- : worker=2 spawning...
+I, [2015-11-30T13:18:10.490737 #33643]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:18:10.491366 #33640]  INFO -- : worker=3 spawning...
+I, [2015-11-30T13:18:10.491306 #33646]  INFO -- : worker=1 spawned pid=33646
+I, [2015-11-30T13:18:10.491613 #33646]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:18:10.492340 #33649]  INFO -- : worker=2 spawned pid=33649
+I, [2015-11-30T13:18:10.492653 #33640]  INFO -- : worker=4 spawning...
+I, [2015-11-30T13:18:10.492774 #33649]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:18:10.494223 #33640]  INFO -- : worker=5 spawning...
+I, [2015-11-30T13:18:10.495218 #33652]  INFO -- : worker=3 spawned pid=33652
+I, [2015-11-30T13:18:10.495264 #33655]  INFO -- : worker=4 spawned pid=33655
+I, [2015-11-30T13:18:10.495579 #33652]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:18:10.495656 #33655]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:18:10.497856 #33640]  INFO -- : worker=6 spawning...
+I, [2015-11-30T13:18:10.498500 #33658]  INFO -- : worker=5 spawned pid=33658
+I, [2015-11-30T13:18:10.498687 #33640]  INFO -- : worker=7 spawning...
+I, [2015-11-30T13:18:10.498758 #33658]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:18:10.499564 #33661]  INFO -- : worker=6 spawned pid=33661
+I, [2015-11-30T13:18:10.499805 #33661]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:18:10.502556 #33640]  INFO -- : worker=8 spawning...
+I, [2015-11-30T13:18:10.503170 #33664]  INFO -- : worker=7 spawned pid=33664
+I, [2015-11-30T13:18:10.503417 #33664]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:18:10.503547 #33640]  INFO -- : master process ready
+I, [2015-11-30T13:18:10.517724 #33667]  INFO -- : worker=8 spawned pid=33667
+I, [2015-11-30T13:18:10.518015 #33667]  INFO -- : Refreshing Gem list
+I, [2015-11-30T13:18:14.790209 #33649]  INFO -- : worker=2 ready
+I, [2015-11-30T13:18:14.923164 #33646]  INFO -- : worker=1 ready
+I, [2015-11-30T13:18:14.960570 #33643]  INFO -- : worker=0 ready
+I, [2015-11-30T13:18:15.010105 #33655]  INFO -- : worker=4 ready
+I, [2015-11-30T13:18:15.070719 #33658]  INFO -- : worker=5 ready
+I, [2015-11-30T13:18:15.127353 #33661]  INFO -- : worker=6 ready
+I, [2015-11-30T13:18:15.138952 #33664]  INFO -- : worker=7 ready
+I, [2015-11-30T13:18:15.173919 #33667]  INFO -- : worker=8 ready
+I, [2015-11-30T13:18:15.250801 #33652]  INFO -- : worker=3 ready
